@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/view/hi-guy-avatar-hoodie-animated-avatar-gif-17735502"  />
+<div class="tenor-gif-embed" data-postid="17735502" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-guy-avatar-hoodie-animated-avatar-gif-17735502">Hi Guy GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
@@ -49,11 +49,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/techy-kriss-savvy/techy-kriss-savvy/output/snake.svg" alt="Snake animation" />
 
 ###
