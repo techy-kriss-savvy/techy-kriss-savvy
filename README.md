@@ -42,7 +42,7 @@
 
 <div align="left">
   <a href="https://leetcode.com/u/vsbecgopikrishna" target="_blank">
-  <img src="[https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9pkgbPPRza-wx8rY9izESXD3rm5cS_LXeyQ&s)" height="35" alt="instagram logo"  />
+  <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="35" alt="leetcode logo"  />
   </a>
   <a href="mailto:vsbecgobikrishna@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
