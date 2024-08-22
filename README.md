@@ -41,7 +41,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://leetcode.com/u/vsbecgopikrishna" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="35" alt="instagram logo"  />
+  </a>
   <a href="mailto:vsbecgobikrishna@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
